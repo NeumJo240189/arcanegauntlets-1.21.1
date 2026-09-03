@@ -1,0 +1,13 @@
+{
+  "itemGroup.arcanegauntlets": "Example Mod Tab",
+  "block.arcanegauntlets.example_block": "Example Block",
+  "item.arcanegauntlets.example_item": "Example Item",
+
+  "arcanegauntlets.configuration.title": "Arcane Gauntlets Configs",
+  "arcanegauntlets.configuration.section.arcanegauntlets.common.toml": "Arcane Gauntlets Configs",
+  "arcanegauntlets.configuration.section.arcanegauntlets.common.toml.title": "Arcane Gauntlets Configs",
+  "arcanegauntlets.configuration.items": "Item List",
+  "arcanegauntlets.configuration.logDirtBlock": "Log Dirt Block",
+  "arcanegauntlets.configuration.magicNumberIntroduction": "Magic Number Text",
+  "arcanegauntlets.configuration.magicNumber": "Magic Number"
+}
