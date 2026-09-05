@@ -9,5 +9,7 @@
   "arcanegauntlets.configuration.items": "Item List",
   "arcanegauntlets.configuration.logDirtBlock": "Log Dirt Block",
   "arcanegauntlets.configuration.magicNumberIntroduction": "Magic Number Text",
-  "arcanegauntlets.configuration.magicNumber": "Magic Number"
+  "arcanegauntlets.configuration.magicNumber": "Magic Number",
+  "item.arcanegauntlets.meteor_gauntlet": "Meteor Gauntlet",
+  "itemGroup.arcanegauntlets": "Arcane Gauntlets"
 }
